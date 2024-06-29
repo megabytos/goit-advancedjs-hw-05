@@ -1,1 +1,1 @@
-# goit-advancedjs-hw-05
+# JavaScript Advanced homework 05
